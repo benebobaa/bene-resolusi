@@ -1,0 +1,4 @@
+bene Resolusi
+-Menyelesaikan tutorial mysql
+-Q1 2022 bisa membuat mobile app menggunakan flutter
+-Menang kompetisi inovasi
