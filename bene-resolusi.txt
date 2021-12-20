@@ -1,6 +1,6 @@
 bene Resolusi
--Menyelesaikan tutorial mysql
 -Q1 2022 bisa membuat mobile app menggunakan flutter
 -Menang kompetisi inovasi
 -Tahun depan bisa merealisasikan ide inovasi
 -Setelah lulus S1 merintis Start-up
+-Belajar dart dan flutter
